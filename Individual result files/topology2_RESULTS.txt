@@ -1,0 +1,263 @@
+****** Intial Routing Table: 0******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     0         0     
+1     100000    -1    
+2     100000    -1    
+3     100000    -1    
+4     828       4     
+5     95        5     
+6     100000    -1    
+7     100000    -1    
+8     100000    -1    
+9     711       9     
+****** Intial Routing Table: 1******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     100000    -1    
+1     0         1     
+2     100000    -1    
+3     446       3     
+4     100000    -1    
+5     100000    -1    
+6     592       6     
+7     100000    -1    
+8     968       8     
+9     100000    -1    
+****** Intial Routing Table: 2******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     100000    -1    
+1     100000    -1    
+2     0         2     
+3     100000    -1    
+4     100000    -1    
+5     100000    -1    
+6     839       6     
+7     100000    -1    
+8     96        8     
+9     310       9     
+****** Intial Routing Table: 3******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     100000    -1    
+1     446       1     
+2     100000    -1    
+3     0         3     
+4     608       4     
+5     100000    -1    
+6     100000    -1    
+7     100000    -1    
+8     100000    -1    
+9     100000    -1    
+****** Intial Routing Table: 4******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     828       0     
+1     100000    -1    
+2     100000    -1    
+3     608       3     
+4     0         4     
+5     627       5     
+6     184       6     
+7     100000    -1    
+8     607       8     
+9     723       9     
+****** Intial Routing Table: 5******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     95        0     
+1     100000    -1    
+2     100000    -1    
+3     100000    -1    
+4     627       4     
+5     0         5     
+6     100000    -1    
+7     95        7     
+8     100000    -1    
+9     100000    -1    
+****** Intial Routing Table: 6******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     100000    -1    
+1     592       1     
+2     839       2     
+3     100000    -1    
+4     184       4     
+5     100000    -1    
+6     0         6     
+7     894       7     
+8     390       8     
+9     841       9     
+****** Intial Routing Table: 7******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     100000    -1    
+1     100000    -1    
+2     100000    -1    
+3     100000    -1    
+4     100000    -1    
+5     95        5     
+6     894       6     
+7     0         7     
+8     129       8     
+9     100000    -1    
+****** Intial Routing Table: 8******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     100000    -1    
+1     968       1     
+2     96        2     
+3     100000    -1    
+4     607       4     
+5     100000    -1    
+6     390       6     
+7     129       7     
+8     0         8     
+9     800       9     
+****** Intial Routing Table: 9******
+Poisoning Nodes Cost (∞): 100,000 : Unknown Edge/Next Hop represented by -1
+Dest  cost      N.H   
+0     711       0     
+1     100000    -1    
+2     310       2     
+3     100000    -1    
+4     723       4     
+5     100000    -1    
+6     841       6     
+7     100000    -1    
+8     800       8     
+9     0         9     
+..................................
+..................................
+............RESULTS...............
+..................................
+..................................
+
+TOTAL NUMBER OF ROUNDS FOR CONVERGENCE: 120
+TOTAL NUMBER OF PACKETS SENT FOR CONVERGENCE: 160
+LAST NODE TO CONVERGE: 0
+****** Final Routing Tables: 0******
+0     0         0     
+1     1287      5     
+2     415       5     
+3     1330      5     
+4     722       5     
+5     95        5     
+6     709       5     
+7     190       5     
+8     319       5     
+9     711       9     
+****** Final Routing Tables: 1******
+0     1287      8     
+1     0         1     
+2     1064      8     
+3     446       3     
+4     776       6     
+5     1192      8     
+6     592       6     
+7     1097      8     
+8     968       8     
+9     1374      8     
+****** Final Routing Tables: 2******
+0     415       8     
+1     1064      8     
+2     0         2     
+3     1278      8     
+4     670       8     
+5     320       8     
+6     486       8     
+7     225       8     
+8     96        8     
+9     310       9     
+****** Final Routing Tables: 3******
+0     1330      4     
+1     446       1     
+2     1278      4     
+3     0         3     
+4     608       4     
+5     1235      4     
+6     792       4     
+7     1311      4     
+8     1182      4     
+9     1331      4     
+****** Final Routing Tables: 4******
+0     722       5     
+1     776       6     
+2     670       8     
+3     608       3     
+4     0         4     
+5     627       5     
+6     184       6     
+7     703       8     
+8     574       6     
+9     723       9     
+****** Final Routing Tables: 5******
+0     95        0     
+1     1192      7     
+2     320       7     
+3     1235      4     
+4     627       4     
+5     0         5     
+6     614       7     
+7     95        7     
+8     224       7     
+9     630       7     
+****** Final Routing Tables: 6******
+0     709       8     
+1     592       1     
+2     486       8     
+3     792       4     
+4     184       4     
+5     614       8     
+6     0         6     
+7     519       8     
+8     390       8     
+9     796       8     
+****** Final Routing Tables: 7******
+0     190       5     
+1     1097      8     
+2     225       8     
+3     1311      8     
+4     703       8     
+5     95        5     
+6     519       8     
+7     0         7     
+8     129       8     
+9     535       8     
+****** Final Routing Tables: 8******
+0     319       7     
+1     968       1     
+2     96        2     
+3     1182      6     
+4     574       6     
+5     224       7     
+6     390       6     
+7     129       7     
+8     0         8     
+9     406       2     
+****** Final Routing Tables: 9******
+0     711       0     
+1     1374      8     
+2     310       2     
+3     1331      4     
+4     723       4     
+5     630       8     
+6     796       8     
+7     535       8     
+8     406       2     
+9     0         9     
+
+
+Simulating Packet Delivery:   
+From: 0
+To: 7
+*** Routing Process ***
+Current Location: 0
+Next Location:  5
+Current Location: 5
+Next Location:  7
+Current Location: 7
+Next Location:  7
+Congratulations: Packet Delivery Complete
+Total Cost: 190
